@@ -172,7 +172,8 @@ The central landing page providing a portfolio overview:
 
 **Routes**: `/defi`, `/defi/my-staking`, `/defi/stats`
 
-![Staking Strategies](public/images/staking-strategies.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0117b20-d23a-44a3-9205-801bc7f10363" />
+
 
 Six progressive staking strategies with dynamic on-chain APY:
 
@@ -201,7 +202,8 @@ Base block time: ~2 seconds → ~15,778,800 blocks/year
 
 **Routes**: `/validators`, `/validators/:nodeId`, `/validators/my-seats`, `/validators/stats`, `/mint`
 
-![Validator Node Key Lifecycle](public/images/validator-flow.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53268b6c-ba9e-4c26-ad42-660ec41dbae9" />
+
 
 Validator nodes are represented as ERC-721 NFTs (Node Keys). Each node type has:
 - Configurable mint price and supply
@@ -222,7 +224,8 @@ Validator nodes are represented as ERC-721 NFTs (Node Keys). Each node type has:
 
 **Routes**: `/marketplace`, `/marketplace/stats`, `/nfts`, `/nfts/:tokenId`
 
-![NFT Marketplace Flow](public/images/marketplace-flow.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7cd570ae-c811-4915-b0c7-3a20de04f4d7" />
+
 
 A peer-to-peer marketplace for Node Key NFTs:
 
@@ -261,7 +264,8 @@ A multichain token launchpad supporting 7 EVM chains:
 
 **Sale Types**: Presale, Fair Launch, Hyper Launch, Linear Launch
 
-![Launchpad Sale Lifecycle](public/images/launchpad-lifecycle.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6340589-c3d9-4b8f-b133-6c67e6713e27" />
+
 
 **Sale Lifecycle**: Created → Active → Sale Ended → Tokens Delivered → Claims Open → Completed (or Cancelled)
 
@@ -280,7 +284,8 @@ A multichain token launchpad supporting 7 EVM chains:
 
 **Routes**: `/dao`, `/dao/proposals`, `/dao/proposals/:id`, `/dao/create`, `/dao/treasury`, `/dao/grants`, `/dao/admin`
 
-![DAO Governance Flow](public/images/dao-governance-flow.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88aa74ce-8bf6-4bb6-b8bb-7bb0318b5c45" />
+
 
 Full on-chain governance powered by OpenZeppelin Governor:
 
@@ -325,7 +330,8 @@ Full on-chain governance powered by OpenZeppelin Governor:
 | Scholar NFT | All 100 | +500 BG bonus | 500 BG |
 | **Total** | | | **2,000 BG** |
 
-![Learn Verification Flow](public/images/learn-verification-flow.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ee43230-4cab-43f1-b1bb-65d339fc8d84" />
+
 
 **Flow**: Read Lesson → Pass Quiz (2 questions) → Share on X → Submit Tweet URL → Admin Verifies → Earn $BG
 
@@ -337,7 +343,8 @@ Full on-chain governance powered by OpenZeppelin Governor:
 
 **Route**: `/migration`
 
-![GQ → BG Token Migration](public/images/migration-flow.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24901603-570c-4071-ad28-868b62ff8c7d" />
+
 
 GQ → BG token migration from BSC (Chain ID: 56) to Base:
 
