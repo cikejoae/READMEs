@@ -2,7 +2,8 @@
 
 > **The comprehensive Web3 ecosystem portal** — DeFi staking, validator nodes, NFT marketplace, multichain launchpad, DAO governance, Learn-to-Earn, and token migration — all on Base.
 
-![Architecture Overview](public/images/architecture-overview.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9a8743ac-3194-464a-9478-a3f7a4048fe0" />
+
 
 ---
 
